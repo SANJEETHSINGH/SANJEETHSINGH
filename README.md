@@ -40,9 +40,9 @@ hobbies: ["Cricket", "Cinema", "Competitive Gaming", "IoT"]
 	<img src="https://cdn.jsdelivr.net/gh/SANJEETHSINGH/SANJEETHSINGH/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=SANJEETHSINGH&theme=github"/>
-</div>
+</div> -->
 
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/SANJEETHSINGH?template=classic&config.timezone=Asia%2FMumbai"/>
