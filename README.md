@@ -32,19 +32,5 @@ hobbies: ["Cricket", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=SANJEETHSINGH&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-<p align="center">
-  <a href="https://SANJEETHSINGH.vercel.app/api/now-playing">
-    <img src="https://SANJEETHSINGH.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://SANJEETHSINGH.vercel.app/api/top-played">
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
