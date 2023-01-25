@@ -31,6 +31,29 @@ will_learn: ["AWS"]
 hobbies: ["Cricket", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
+# 🔭ACTIONS
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SANJEETHSINGH"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/SANJEETHSINGH/SANJEETHSINGH/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=SANJEETHSINGH&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/SANJEETHSINGH?template=classic&config.timezone=Asia%2FMumbai"/>
+</div>
+
+# 🌱SOCIAL
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SANJEETHSINGH&show_icons=true&theme=radical"/>
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
