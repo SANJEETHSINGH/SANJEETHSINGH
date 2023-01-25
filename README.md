@@ -1,9 +1,5 @@
-[![Actions Status](https://github.com/SANJEETHSINGH/SANJEETHSINGH/workflows/wakatime-stats/badge.svg)](https://github.com/SANJEETHSINGH/SANJEETHSINGH/actions)
-[![Actions Status](https://github.com/SANJEETHSINGH/SANJEETHSINGH/workflows/update-gh-activity/badge.svg)](https://github.com/SANJEETHSINGH/SANJEETHSINGH/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=SANJEETHSINGH.SANJEETHSINGH)
-
 <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
 </p>
 
 <p align="center">
@@ -12,25 +8,21 @@
   <img alt="SANJEETHSINGH | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
 <a href="https://www.linkedin.com/in/sanjeeth-singh-16a5441ba">
-  <img alt="SANJEETHSINGH's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <img alt="SANJEETHSINGH's | LinkedIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <br>
 </p>
 
 ```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Robotics Software Engineer (UAV Swarms)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
+name: Sanjeeth Singh
+located_in: Bangalore, INDIA
+from: Uttar Pradesh (INDIA)
+job: Software Engineer
+education: ["Bachelor's in Technology"]
+company: Wissen Infotech
 past experiences: 
-  - ["Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Jr Backend Software Engineer", "Web App (Go/Postgre/Node)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Jr Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Jr Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+  - ["Software Engineer", "Wissen Infotech" , "Bangalore", "2022-2023"]
+  - ["Frontend Engineer", "One-Spot NexusInfo", "Bangalore", "2022"]
 
 fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
                       "Localization", "Sensor Fusion", "Embedded Systems"]
@@ -38,7 +30,7 @@ technical_background: ["Motion Planning", "Optimization",
                        "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
 currently_learning: ["Social Media Bots", "Crypto Trading Bots", "Aerial Robotics"]
 will_learn: ["Web3"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+hobbies: ["Cricket", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
